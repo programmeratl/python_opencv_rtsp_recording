@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<collection shelf="Most Popular">
+<stream url="rtsp://admin:admin123w@58.146.110.215:554/cam/realmonitor?channel=1&amp;subtype=0">
+	<name>atest01</name>
+	<fps>15</fps>
+	<schedule>100</schedule>	
+</stream>
+<stream url="rtsp://admin:admin123w@58.146.110.215:554/cam/realmonitor?channel=1&amp;subtype=0">
+	<name>btest01</name>
+	<fps>25</fps>
+	<schedule>100</schedule>	
+</stream>
+<stream url="rtsp://admin:admin123w@58.146.110.215:554/cam/realmonitor?channel=1&amp;subtype=0">
+	<name>ctest01</name>
+	<fps>30</fps>
+	<schedule>10</schedule>	
+</stream>
+</collection>
